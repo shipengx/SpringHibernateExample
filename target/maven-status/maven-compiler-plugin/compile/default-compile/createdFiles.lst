@@ -1,0 +1,4 @@
+com/shipeng/entity/Contact.class
+com/shipeng/controller/ContactController.class
+com/shipeng/model/dao/impl/ContactDAOImpl.class
+com/shipeng/model/dao/ContactDAO.class
